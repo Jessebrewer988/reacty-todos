@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reacty-todos/static/css/main.b65318c9.chunk.css",
+    "main.js": "/reacty-todos/static/js/main.f9e8b0bb.chunk.js",
+    "main.js.map": "/reacty-todos/static/js/main.f9e8b0bb.chunk.js.map",
+    "runtime~main.js": "/reacty-todos/static/js/runtime~main.8d8adaa8.js",
+    "runtime~main.js.map": "/reacty-todos/static/js/runtime~main.8d8adaa8.js.map",
+    "static/js/2.db972f86.chunk.js": "/reacty-todos/static/js/2.db972f86.chunk.js",
+    "static/js/2.db972f86.chunk.js.map": "/reacty-todos/static/js/2.db972f86.chunk.js.map",
+    "index.html": "/reacty-todos/index.html",
+    "precache-manifest.f4ac4e822a1354393b20f3669b8d469a.js": "/reacty-todos/precache-manifest.f4ac4e822a1354393b20f3669b8d469a.js",
+    "service-worker.js": "/reacty-todos/service-worker.js",
+    "static/css/main.b65318c9.chunk.css.map": "/reacty-todos/static/css/main.b65318c9.chunk.css.map"
+  }
+}
