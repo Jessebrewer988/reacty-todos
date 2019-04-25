@@ -1,10 +1,10 @@
 Bootstrapped by Create-React App
 
 
-## To run locally - 
+## To run locally
 Git clone, npm install, and npm start
 
-### Resources -
+### Resources
 React, Typicode, Axios
 
 ### Features 

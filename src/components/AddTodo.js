@@ -26,7 +26,6 @@ class AddTodo extends Component {
 
 AddTodo.propTypes = {
   addTodo: PropTypes.func.isRequired,
-  markComplete: PropTypes.func.isRequired,
   delTodo: PropTypes.func.isRequired
 }
 
